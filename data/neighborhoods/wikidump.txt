@@ -1,0 +1,59 @@
+Bronx CB 1 	7.17 	91,497 	12,761 	Melrose, Mott Haven, Port Morris
+Bronx CB 2 	5.54 	52,246 	9,792 	Hunts Point, Longwood
+Bronx CB 3 	4.07 	79,762 	19,598 	Claremont, Concourse Village, Crotona Park, Morrisania
+Bronx CB 4 	5.28 	146,441 	27,735 	Concourse, Highbridge, Mount Eden
+Bronx CB 5 	3.55 	128,200 	36,145 	Fordham, Morris Heights, Mount Hope, University Heights
+Bronx CB 6 	4.01 	83,268 	20,765 	Bathgate, Belmont, East Tremont, West Farms
+Bronx CB 7 	4.84 	139,286 	28,778 	Bedford Park, Fordham Heights, Jerome Park, Kingsbridge Heights, Norwood, University Heights
+Bronx CB 8 	8.83 	101,731 	11,521 	Fieldston, Kingsbridge, Kingsbridge Heights, Marble Hill, Riverdale, Spuyten Duyvil, Van Cortlandt Village
+Bronx CB 9 	12.41 	172,298 	13,884 	Bronx River, Bruckner, Castle Hill, Clason Point, Harding Park, Parkchester, Soundview, Unionport
+Bronx CB 10 	16.76 	120,392 	7,183 	City Island, Co-op City, Locust Point, Pelham Bay, Silver Beach, Throgs Neck, Westchester Square
+Bronx CB 11 	9.32 	113,232 	12,149 	Allerton, Bronxdale, Indian Village, Laconia, Morris Park, Pelham Gardens, Pelham Parkway, Van Nest
+Bronx CB 12 	14.56 	152,344 	10,463 	Baychester, Edenwald, Eastchester, Fish Bay, Olinville, Wakefield, Williamsbridge, Woodlawn Heights
+Brooklyn CB 1 	12.82 	160,338 	12,507 	Greenpoint, Williamsburg, Williamsburg Houses
+Brooklyn CB 2 	7.72 	98,620 	12,775 	Boerum Hill, Brooklyn Heights, Brooklyn Navy Yard, Clinton Hill, Dumbo, Fort Greene, Fulton Ferry, Fulton Mall, Vinegar Hill
+Brooklyn CB 3 	7.67 	143,867 	18,757 	Bedford-Stuyvesant, Ocean Hill, Stuyvesant Heights
+Brooklyn CB 4 	5.31 	104,358 	19,653 	Bushwick
+Brooklyn CB 5 	14.61 	173,198 	11,855 	City Line, Cypress Hills, East New York, Highland Park, New Lots, Starrett City
+Brooklyn CB 6 	9.01 	104,054 	11,549 	Carroll Gardens, Cobble Hill, Gowanus, Park Slope, Red Hook
+Brooklyn CB 7 	10.96 	120,063 	10,955 	Greenwood Heights, Sunset Park, Windsor Terrace
+Brooklyn CB 8 	4.25 	96,076 	22,606 	Crown Heights, Prospect Heights, Weeksville
+Brooklyn CB 9 	4.07 	104,014 	25,556 	Crown Heights, Prospect Lefferts Gardens, Wingate
+Brooklyn CB 10 	10.57 	122,542 	11,593 	Bay Ridge, Dyker Heights, Fort Hamilton
+Brooklyn CB 11 	10.18 	172,129 	16,909 	Bath Beach, Bensonhurst, Gravesend, Mapleton
+Brooklyn CB 12 	9.32 	185,046 	19,855 	Borough Park, Kensington, Midwood, Ocean Parkway
+Brooklyn CB 13 	8.88 	106,120 	11,950 	Bensonhurst, Brighton Beach, Coney Island, Gravesend, Sea Gate
+Brooklyn CB 14 	7.61 	168,806 	22,182 	Flatbush, Kensington, Midwood, Ocean Parkway
+Brooklyn CB 15 	12.82 	160,319 	12,505 	East Gravesend, Gerritsen Beach, Homecrest, Kings Bay, Kings Highway, Madison, Manhattan Beach, Plum Beach, Sheepshead Bay
+Brooklyn CB 16 	4.97 	85,343 	17,172 	Brownsville, Ocean Hill
+Brooklyn CB 17 	8.73 	165,753 	18,987 	Ditmas Village, East Flatbush, Erasmus, Farragut, Remsen Village, Rugby
+Brooklyn CB 18 	24.68 	194,653 	7,887 	Bergen Beach, Canarsie, Flatlands, Georgetown, Marine Park, Mill Basin, Mill Island
+Manhattan CB 1 	4.45 	34,420 	7,735 	Battery Park City, Financial District, Tribeca
+Manhattan CB 2 	4.01 	93,119 	23,222 	Chinatown, Greenwich Village, Little Italy, Lower East Side, NoHo, SoHo, West Village
+Manhattan CB 3 	4.56 	164,407 	36,054 	Alphabet City, Chinatown, East Village, Lower East Side, Two Bridges
+Manhattan CB 4 	5.41 	87,479 	16,170 	Chelsea, Clinton, Hell's Kitchen, Hudson Yards
+Manhattan CB 5 	4.25 	44,028 	10,360 	Midtown
+Manhattan CB 6 	3.55 	136,152 	38,353 	Gramercy Park, Kips Bay, Rose Hill, Murray Hill, Peter Cooper Village, Stuyvesant Town, Sutton Place, Tudor City, Turtle Bay, Waterside Plaza
+Manhattan CB 7 	5.46 	207,699 	38,040 	Lincoln Square, Manhattan Valley, Upper West Side
+Manhattan CB 8 	5.13 	217,063 	42,312 	Lenox Hill, Roosevelt Island, Upper East Side, Yorkville
+Manhattan CB 9 	3.91 	111,724 	28,574 	Hamilton Heights, Manhattanville, Morningside Heights
+Manhattan CB 10 	3.63 	107,109 	29,507 	Harlem, Polo Grounds
+Manhattan CB 11 	5.75 	117,743 	20,477 	East Harlem, Randall's Island, Spanish Harlem, Wards Island
+Manhattan CB 12 	7.64 	208,414 	27,279 	Inwood, Washington Heights
+Queens CB 1 	14.97 	211,220 	14,110 	Astoria, Astoria Heights, Queensbridge, Dutch Kills, Long Island City, Ravenswood, Rikers Island, Steinway
+Queens CB 2 	13.36 	109,920 	8,228 	Blissville, Hunters Point, Long Island City, Sunnyside, Sunnyside Gardens, Woodside
+Queens CB 3 	7.33 	169,083 	23,067 	East Elmhurst, Jackson Heights, North Corona
+Queens CB 4 	6.16 	167,005 	27,111 	Corona, Elmhurst
+Queens CB 5 	19.63 	165,911 	8,452 	Fresh Pond, Glendale, Maspeth, Middle Village, Liberty Park, Ridgewood
+Queens CB 6 	7.59 	115,967 	15,279 	Forest Hills, Rego Park
+Queens CB 7 	32.97 	242,952 	7,369 	Bay Terrace, Beechhurst, College Point, Flushing, Linden Hill, Malba, Queensboro Hill, Whitestone, Willets Point
+Queens CB 8 	19.17 	146,594 	7,647 	Briarwood, Fresh Meadows, Holliswood, Jamaica Estates, Kew Gardens Hills, Pomonok, Pomonok Houses, Utopia
+Queens CB 9 	10.08 	141,608 	14,048 	Kew Gardens, Ozone Park, Richmond Hill, Woodhaven
+Queens CB 10 	16.19 	127,274 	7,861 	Howard Beach, Lindenwood, Richmond Hill, South Ozone Park, Tudor Village
+Queens CB 11 	24.99 	116,404 	4,658 	Auburndale, Bayside, Douglaston, East Flushing, Hollis Hills, Little Neck, Oakland Gardens
+Queens CB 12 	25.46 	223,602 	8,782 	Baisley Park, Jamaica, Hollis, Rochdale Village, St. Albans, South Jamaica, Springfield Gardens
+Queens CB 13 	33.31 	196,284 	5,893 	Bellerose, Brookville, Cambria Heights, Floral Park, Glen Oaks, Laurelton, Meadowmere, New Hyde Park, Queens Village, Rosedale
+Queens CB 14 	23.28 	106,686 	4,583 	Arverne, Bayswater, Belle Harbor, Breezy Point, Edgemere, Far Rockaway, Neponsit, Rockaway Park, Seaside
+Staten Island CB 1 	36.62 	162,609 	4,440 	Arlington, Castleton Corners, Clifton, Concord, Elm Park, Fort Wadsworth, Graniteville, Grymes Hill, Livingston, Mariners Harbor, Meiers Corners, New Brighton, Port Ivory, Port Richmond, Randall Manor, Rosebank, St. George, Shore Acres, Silver Lake, Stapleton, Sunnyside, Tompkinsville, West Brighton, Westerleigh
+Staten Island CB 2 	54.62 	127,071 	2,326 	Arrochar, Bloomfield, Bulls Head, Chelsea, Dongan Hills, Egbertville, Emerson Hill, Grant City, Grasmere, Midland Beach, New Dorp, New Springville, Oakwood, Ocean Breeze, Old Town, South Beach, Todt Hill, Travis
+Staten Island CB 3 	58.97 	152,908 	2,593 	Annadale, Arden Heights, Bay Terrace, Charleston, Eltingville, Great Kills, Greenridge, Huguenot, Pleasant Plains, Prince's Bay, Richmond Valley, Rossville, Tottenville, Woodrow
